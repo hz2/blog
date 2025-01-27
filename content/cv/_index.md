@@ -1,5 +1,5 @@
 ---
-title: "curriculum vitae"
+title: "cv"
 # description: "Learn more about me, my background, and interests."
 ---
 
