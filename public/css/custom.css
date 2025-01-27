@@ -1,0 +1,17 @@
+.cv {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+  }
+  .cv-section {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 1em;
+  }
+  .cv-item {
+    margin-bottom: 2em;
+  }
+  .cv-date {
+    color: gray;
+    font-style: italic;
+  }
+  
